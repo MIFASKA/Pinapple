@@ -1,2 +1,1 @@
-# Pinapple it's a roblox script hub
-Current supported games: -
+# Archived forever because I don't wanna to update it
